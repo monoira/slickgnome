@@ -1,4 +1,4 @@
-# Slickgn
+# Slickgnome
 
 Turn newly installed Ubuntu gnome desktop into pretty, slick,
 ready to work one with night light and other
@@ -19,7 +19,7 @@ it prettier and more slick on Ubuntu. No manual download or cloning required.
 It just works.
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/monoira/slickgn/main/gnome_settings.sh | bash
+wget -qO- https://raw.githubusercontent.com/monoira/slickgnome/main/gnome_settings.sh | bash
 ```
 
 ### THIS WILL
