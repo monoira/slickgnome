@@ -29,6 +29,9 @@ gsettings set org.gnome.shell.extensions.ding show-home false
 # turns off mouse acceleration
 gsettings set org.gnome.desktop.peripherals.mouse accel-profile 'flat'
 
+# change screen locking after inactivity from 5 minutes to 15 minutes ( 15 minutes is 900 seconds )
+gsettings set org.gnome.desktop.session idle-delay 900
+
 # NOTE: ubuntu specific settings
 # disable update notifications
 gsettings set com.ubuntu.update-notifier no-show-notifications true
