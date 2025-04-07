@@ -39,10 +39,11 @@ You can see what more it changes by reading the script itself at
 
 ## DONATE
 
-I've been creating OSS / GNU/Linux / nvim / web
+I've been creating FOSS / GNU/Linux / nvim / web
 related software for some time now.  
 If you used, forked or took code from one of my projects and you
-would like to support me 👍, you can donate here:
+would like to support me 👍,  
+you can donate here:
 
 | type                | address                                    |
 | ------------------- | ------------------------------------------ |
